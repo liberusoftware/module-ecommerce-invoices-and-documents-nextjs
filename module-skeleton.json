@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-invoices-and-documents-nextjs",
+  "capabilityKey": "planned:ecommerce:invoices-and-documents",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-invoices-and-documents-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/invoices-and-documents.md",
+  "presentationPlan": "projects/ecommerce/nextjs/invoices-and-documents.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
